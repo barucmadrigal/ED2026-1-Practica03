@@ -24,8 +24,8 @@ En esta sección deben eliminar esta línea de texto, borrar la leyenda "Integra
 
 + Integrante 1
     - No. de Cuenta: 
-+ Integrante 2
-    - No. de Cuenta: 
++ Integrante 2 : Jimenez Garcia Angel 
+    - No. de Cuenta: 323066820
 + Integrante 3
     - No. de Cuenta: 
 
